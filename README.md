@@ -1,7 +1,7 @@
  ### Hi there!  👋 
- - I'm Hedi-Bk, an ICT engineering student , interested in all things **Computer vision** , **Langchain** and **ML/AI**
- - I'm Currently building impactful solutions through code.
- - I'm looking to collaborate on a Freelance or a Business projects
+- 👨‍💻 I'm **Hedi-Bk**, an ICT engineering student, passionate about **Computer Vision**, **Langchain**, and **ML/AI**.
+- 🚀 Currently building **impactful solutions** through code.
+- 🌍 Looking to contribute to **innovative freelance** or **part-time projects** — available for **remote work and collaboration**!
  - 
     > ✨ Let’s connect through code — feel free to check out my repos and get inspired!
 
