@@ -26,5 +26,18 @@
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a href="https://google.github.io/mediapipe/" target="_blank"><img src="https://img.shields.io/badge/-MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black" /></a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
+<!-- Gradio -->
+<a href="https://www.gradio.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Gradio-3C77C2?style=for-the-badge&logo=gradio&logoColor=white" />
+</a>
 
 </p>
