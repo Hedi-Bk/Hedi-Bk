@@ -10,6 +10,7 @@
 </div>
 
 ##### 🚀 My Languages & Tools
+#### 🌐 Web Development  
 
 <p align="left"> <!-- Frontend --> <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a> <!-- Backend -->
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
@@ -17,10 +18,34 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<!-- ⚙️ Backend -->
+#### ⚙️ Backend  
+<p align="left">
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+</p>
 
-<!-- Python & ML -->
+
+<!-- 📱 Mobile Development -->
+#### 📱 Mobile Development  
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+</p>
+
+
+
+<!-- 🛠️ Tools -->
+#### 🛠️ Tools  
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
+
+
+<!-- 🤖 AI & ML -->
+#### 🤖 AI & Machine Learning  
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
