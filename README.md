@@ -10,6 +10,21 @@
 </div>
 
 ##### 🚀 My Languages & Tools
+
+
+<!-- 🤖 AI & ML -->
+#### 🤖 AI & Machine Learning  
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://google.github.io/mediapipe/" target="_blank"><img src="https://img.shields.io/badge/-MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black" /></a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+
 #### 🌐 Web Development  
 
 <p align="left"> 
@@ -35,19 +50,6 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
-
-
-<!-- 🤖 AI & ML -->
-#### 🤖 AI & Machine Learning  
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href="https://google.github.io/mediapipe/" target="_blank"><img src="https://img.shields.io/badge/-MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black" /></a>
-<a href="https://streamlit.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
 
 <!-- Hugging Face -->
 <a href="https://huggingface.co/" target="_blank">
